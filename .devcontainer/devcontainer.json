@@ -1,0 +1,17 @@
+{
+  "name": "CSE 230 Winter 2025 Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.autoSave": "off"
+      },
+      "extensions": [
+        "leanprover.lean4",
+        "KyleThompson.lean-vacuum"
+      ]
+    }
+  }
+}

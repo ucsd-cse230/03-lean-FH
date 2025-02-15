@@ -1,0 +1,18 @@
+{"totalScore": 0,
+ "totalMaxScore": 170,
+ "files":
+ [{"totalScore": 0,
+   "totalMaxScore": 170,
+   "tests":
+   [{"score": 0, "name": "if_valid", "maxScore": 15},
+    {"score": 0, "name": "Problem3.ex_sum", "maxScore": 40},
+    {"score": 0, "name": "vc_sound", "maxScore": 5},
+    {"score": 0, "name": "seq_valid", "maxScore": 15},
+    {"score": 0, "name": "Problem3.ex_3_1", "maxScore": 20},
+    {"score": 0, "name": "skip_valid", "maxScore": 5},
+    {"score": 0, "name": "loop_inv", "maxScore": 15},
+    {"score": 0, "name": "while_valid", "maxScore": 10},
+    {"score": 0, "name": "fh_sound", "maxScore": 10},
+    {"score": 0, "name": "vc'_sound", "maxScore": 10},
+    {"score": 0, "name": "vc_pre", "maxScore": 25}],
+   "file": "FH.lean"}]}
