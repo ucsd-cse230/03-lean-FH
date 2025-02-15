@@ -1,4 +1,4 @@
-# 02-FH
+# 03-FH
 Homework assignment 3 for CSE 230
 
 ## Installation 
